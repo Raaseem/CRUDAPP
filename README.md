@@ -8,3 +8,6 @@ Run the Project
 
 2.create db 
 
+front end will run in localhost:3000 port.
+
+server will run in localhost:3001 port
